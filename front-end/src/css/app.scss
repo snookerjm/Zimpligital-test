@@ -1,0 +1,11 @@
+// app global css in SCSS form
+.q-header {
+  background: red;       
+  background: -webkit-linear-gradient(-90deg, rgb(77, 10, 10), rgb(126, 21, 21), rgb(28, 28, 28)); 
+  background: -o-linear-gradient(-90deg, rgb(77, 10, 10), rgb(126, 21, 21), rgb(28, 28, 28)); 
+  background: -moz-linear-gradient(-90deg, rgb(77, 10, 10), rgb(126, 21, 21), rgb(28, 28, 28));
+  background: linear-gradient(-90deg, rgb(77, 10, 10), rgb(126, 21, 21), rgb(28, 28, 28)); 
+}
+.q-stepper--vertical .q-stepper__step-inner {
+  padding: 0 8px 0px 42px;
+}
